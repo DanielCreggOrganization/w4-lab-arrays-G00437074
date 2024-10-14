@@ -10,7 +10,8 @@
     "java.server.launchMode": "Standard",
     "java.dependency.packagePresentation": "flat",
     "java.project.sourcePaths": [
-        "src"
+        "src",
+        "ie.atu.arrays"
     ],
     "redhat.telemetry.enabled": false,
     "git.autofetch": true,
